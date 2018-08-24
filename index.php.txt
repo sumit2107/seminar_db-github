@@ -1,0 +1,14 @@
+<?php
+
+?>
+
+<!DOCTYPE html>
+<html>
+<head>
+<title> LOGIN PAGE </title>
+</head>
+<body style ="background-color:#ff7675">
+
+
+</body>
+</html>
